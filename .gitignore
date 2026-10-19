@@ -18,3 +18,8 @@ env/
 # 系统
 .DS_Store
 Thumbs.db
+
+# 数据与模型
+data/
+models/
+*.pth
