@@ -55,4 +55,9 @@ D:\python\envs\ai-learning\python.exe -m pip config set global.index-url https:/
 
 - 该环境由 `ms312` 克隆而来，因此自带 scipy、pillow 等依赖，属于正常现象。
 - 示例 `01_hello_sklearn.py` 是 10 行的随机森林分类，跑通即代表环境可用。
-确实如此
+
+# ai-learning
+
+轴承故障诊断学习项目，用 CWRU 数据集练手。
+环境：Python 3.12（conda 环境 ai-learning），见 requirements.txt。
+运行：python 01_hello_sklearn.py
